@@ -1,2 +1,2 @@
-# Countermeasures_Committee
-Public documents of the Countermeasures Committee
+# Countermeasures Committee
+Public documents of the `Countermeasures Committee`
